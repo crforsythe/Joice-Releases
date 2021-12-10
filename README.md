@@ -1,1 +1,2 @@
-# Joice-Releases
+# Joice
+Logit estimation in Julia
